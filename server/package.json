@@ -1,0 +1,13 @@
+{
+    "name": "azure-function-battlegame",
+    "version": "1.0.0",
+    "description": "Demo BATTLEGAME in-memory with Node.js + Azure Function",
+
+    "scripts": {
+      "start": "func start"
+    },
+    "dependencies": {
+      "uuid": "^9.0.0"
+    }
+  }
+  
